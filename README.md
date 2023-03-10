@@ -26,9 +26,9 @@
 
 - 👨‍💻 All of my projects are available at <a href="www.github/Ojerinde">My GitHub</a>
 
-- 📝 I write articles on my medium <a href="https://jor-el.hashnode.dev/">Hashnode</a>
+- 📝 I write articles on my hashnode <a href="https://jor-el.hashnode.dev/">Hashnode</a>
 
-- ⚡ Fun fact **I love adventures**
+- ⚡ Fun fact **I love footballing**
 ---
 
 <h3 align="left">Connect with me:</h3>
