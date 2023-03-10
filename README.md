@@ -12,7 +12,7 @@
 
 * 😊 Pronouns: He/him
 
-* - 🔭 I’m currently a **Software Engineering Intern at AltSchool Africa**
+* 🔭 I’m currently a **Software Engineering Intern at AltSchool Africa**
 
 * 🌱 I’m currently learning **TypeScript**.
 
