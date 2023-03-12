@@ -1,14 +1,17 @@
-# Hi there; welcome 👋🏾
-
-<a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044">![udacity](https://user-images.githubusercontent.com/70530526/184998992-6c1d8bd1-708c-43de-895a-dbfaa2758e3b.png)</a> <a href="https://altschoolafrica.com/schools/engineering">![altschool](https://user-images.githubusercontent.com/70530526/184998938-84280644-3dfa-4dac-87a4-cfb7fb490a83.png)</a>
+# 
+<h1 align="center"> Hi there; welcome 👋🏾</h1>
 
 <h3 align="center">Joel is an Electrical and Electronic Engineering student who also works as a Full Stack Web Developer with a focus on Frontend development. He is skilled in writing clean, understandable, and maintainable code</h3>
 
+<!-- 
+<a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044">![udacity](https://user-images.githubusercontent.com/70530526/184998992-6c1d8bd1-708c-43de-895a-dbfaa2758e3b.png)</a> 
+<a href="https://altschoolafrica.com/schools/engineering">![altschool](https://user-images.githubusercontent.com/70530526/184998938-84280644-3dfa-4dac-87a4-cfb7fb490a83.png)</a></div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ojerinde" alt="Ojerinde" /></a> </p>
+ -->
+<div>&nbsp;</div>
 
-
-**Here's a quick summary about me**:
+*Here's a quick summary about me*:
 
 * 😊 Pronouns: He/him
 
@@ -36,7 +39,6 @@
 <a href="https://twitter.com/Joel_Ojerinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joshuaogunlade6" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ojerinde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshua ogunlade" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
@@ -58,7 +60,7 @@
   </a>  
  </p>
 
-
+<div>&nbsp;</div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ojerinde&show_icons=true&locale=en&layout=compact" alt="Ojerinde" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ojerinde&show_icons=true&locale=en" alt="Ojerinde" /></p>
