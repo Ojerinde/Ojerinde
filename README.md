@@ -15,9 +15,11 @@
 
 * 😊 Pronouns: He/him
 
-* 🔭 I’m currently a **Software Engineering Intern at AltSchool Africa**
+* 🔭 I’m currently a **Software Engineering Intern at Mvend**
 
-* 🌱 I’m currently learning **TypeScript**.
+* 🔭 I’m currently a **Electrical Engineering Intern at MTN Nigeria**
+
+* 🌱 I’m currently learning **GraphQL**.
 
 * 👯 I’m available for open source projects, hackathons.
 
