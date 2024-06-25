@@ -1,7 +1,7 @@
 # 
 <h1 align="center"> Hi there; welcome 👋🏾</h1>
 
-<h3 align="center">Joel is an Electrical and Electronic Engineering student who also works as a Full Stack Web Developer with a focus on Frontend development. He is skilled in writing clean, understandable, and maintainable code</h3>
+<h3 align="center">Joel is an Electrical and Electronic Engineering student, a Technical Writer, and a Full Stack Web Developer focusing on Frontend development. He is skilled in writing clean, understandable, and maintainable code</h3>
 
 <!-- 
 <a href="https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044">![udacity](https://user-images.githubusercontent.com/70530526/184998992-6c1d8bd1-708c-43de-895a-dbfaa2758e3b.png)</a> 
@@ -15,15 +15,15 @@
 
 * 😊 Pronouns: He/him
 
-* 🔭 I’m currently a **Software Engineering Intern at Mvend**
+* 🔭 I’m currently a **Software Engineer at RealtHive**
 
-* 🔭 I’m currently a **Electrical Engineering Intern at MTN Nigeria**
+* 🔭 I’m currently an **Electrical and Electronic Final Year Student**
 
-* 🌱 I’m currently learning **GraphQL**.
+* 🌱 I’m currently learning **Blockchain**.
 
-* 👯 I’m available for open source projects, hackathons.
+* 👯 I’m available for open-source projects and hackathons.
 
-* 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Intern or Junior level).
+* 💼 Job interests: Software Engineer, Frontend Engineer, or Backend Engineer (Junior or Mid-level).
 
 *  💬 Ask me about **Full Sack Web Development**
 
