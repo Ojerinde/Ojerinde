@@ -19,7 +19,7 @@
 
 * 🔭 I’m currently an **Electrical and Electronic Final Year Student**
 
-* 🌱 I’m currently learning **Blockchain**.
+* 🌱 I’m currently learning **DevOps**.
 
 * 👯 I’m available for open-source projects and hackathons.
 
